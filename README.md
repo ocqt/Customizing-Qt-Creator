@@ -25,7 +25,9 @@ Ubuntu: /opt/Qt\tools\qtcreator\share\qtcreator\templates\wizards
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+The wizards archive contains files that are modified versions of files distributed with the open source Qt Creator and are protected under Qt Creator's license. 
+
+Stanley Morris drafted the Customizing_QtCreator.pptx. Don't copy it and claim you or someone else wrote it.
 
 ## Acknowledgments
 
