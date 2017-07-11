@@ -5,7 +5,7 @@ Files used in the OC Qt/QML presentation on Customizing QtCreator.
 ## Getting Started
 
 The Customizing_QtCreator.pptx slideshow is the slide deck from the presentation.
-The Wizards.zip file is a collection of QtCreator wizards and customizations to default wizards.
+The wizards folder contains new QtCreator code generation wizards and customizations to default wizards.
 
 ### Prerequisites
 
