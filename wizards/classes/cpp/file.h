@@ -5,7 +5,7 @@
 //
 //***************************************************************************************
 
-#prama once
+#pragma once
 
 %{JS: QtSupport.qtIncludes([ ( '%{IncludeQObject}' )          ? 'QtCore/%{IncludeQObject}'                 : '',
                              ( '%{IncludeQWidget}' )          ? 'QtGui/%{IncludeQWidget}'                  : '',
@@ -58,4 +58,3 @@ private:
 @endif
 };
 %{JS: Cpp.closeNamespaces('%{Class}')}
-
